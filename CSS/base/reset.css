@@ -1,3 +1,7 @@
+html {
+    scroll-behavior: smooth;
+}
+
 body,
 body * {
     margin: 0;
@@ -6,12 +10,3 @@ body * {
     box-sizing: border-box;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
-/* base */
-@import './base/reset.css';
-@import './base/variables.css';
-
-/*components */
-@import './components/zodynas.css';
-
-/* 3rd-party */
-@import '#';
