@@ -11,7 +11,7 @@ body * {
 @import './base/variables.css';
 
 /*components */
-@import './components/zodynas.css';
+@import './components/toolbox.css';
 
 /* 3rd-party */
 @import '#';
